@@ -1,6 +1,11 @@
 body{
     background-color:grey;
 }
+.name{
+    text-align:auto;
+    color:pink;
+    padding-left:30%;
+}
 
 
 .myname{

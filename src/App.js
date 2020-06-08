@@ -5,7 +5,7 @@ import './Hello.css';
 import Hello from'./Hello';
 
 function App(props) {
-return <div>
+return <div class="name">
  Hello !<strong> {props.name} </strong> is  {props.age}  Years old
   <br/>
   <p >she take subjects :
